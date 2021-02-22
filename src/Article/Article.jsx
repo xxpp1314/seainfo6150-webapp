@@ -3,7 +3,7 @@ import React from 'react'
 const Article = () => {
     return (
         <div>
-                <h2> The Statue of Liberty's torch heads to new museum  </h2>
+                <h2>The Statue of Liberty's torch heads to new museum</h2>
                 <address>
                      by Kate Farley (<a href="kate.farley@nytimes.com">kate.farley@nytimes.com</a>)
                 </address>
@@ -16,15 +16,15 @@ const Article = () => {
                 </p>
 
                 <section>
-                    <h2> The history of the Statue of Liberty  </h2>
+                    <h2>The history of the Statue of Liberty</h2>
                     <p>
                         Not only is the Statue of Liberty the symbol of New York City, she is also a <abbr title="United Nations Educational, Scientific and Cultural Organization">UNESCO</abbr> World Heritage site under the designation of <em>Outstanding Universal Value</em>.
                     </p>
-                    <p>  Her full name is Liberty Enlightening the World, and she was designed by Frederic Auguste Bartholdi and built by Gustave Eiffel -- yes, the same guy who built Paris's Eiffel Tower.</p>
-                    <p>  Lady Liberty was a gift from France to the United States to celebrate the centennial of their nation's independence -- although, somewhat awkwardly, she arrived a decade too late. Nevertheless, President Grover Cleveland formally unveiled her in 1886.</p>
-                    <p>  Since then, the statue has served as a symbol of hope and possibility for many people who entered the United States as immigrants via neighboring Ellis Island.</p>
+                    <p>Her full name is Liberty Enlightening the World, and she was designed by Frederic Auguste Bartholdi and built by Gustave Eiffel -- yes, the same guy who built Paris's Eiffel Tower.</p>
+                    <p>Lady Liberty was a gift from France to the United States to celebrate the centennial of their nation's independence -- although, somewhat awkwardly, she arrived a decade too late. Nevertheless, President Grover Cleveland formally unveiled her in 1886.</p>
+                    <p>Since then, the statue has served as a symbol of hope and possibility for many people who entered the United States as immigrants via neighboring Ellis Island.</p>
                     <p>
-                        <q>The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy,</q>says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit inspired the decision to inscribe these famous lines on the statue's pedestal:
+                       <q>The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy,</q>says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit inspired the decision to inscribe these famous lines on the statue's pedestal:
                     </p>
                     <blockquote>
                         Give me your tired, your poor
